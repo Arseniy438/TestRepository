@@ -8,5 +8,7 @@ public class Main {
             i++;
         }
         PrintHello.print();
+
+        System.out.println("git is very cool tool");
     }
 }
