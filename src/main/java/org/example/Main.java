@@ -7,6 +7,6 @@ public class Main {
             System.out.println("Changed...");
             i++;
         }
-        System.out.println("Hello world");
+        PrintHello.print();
     }
 }
